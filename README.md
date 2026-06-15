@@ -39,4 +39,4 @@ I am an aspiring DevOps Engineer with training in:
 * File Permissions
 * Basic Shell Commands
 
-## Career GoalJunior DevOps Engineer or Cloud Support role and continue developing cloud automation skills.
+## Career Goal Junior DevOps Engineer or Cloud Support role and continue developing cloud automation skills.
