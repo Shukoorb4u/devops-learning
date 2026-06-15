@@ -1,21 +1,45 @@
-# devops-learning
-First Repository on15/06/2026
-# DevOps Learning Journey
+# DevOps Learning Portfolio
 
 ## About Me
 
-I am learning DevOps and Cloud Computing.
+My name is Abdul.
 
-Skills:
-- AWS
-- Linux
-- Git
-- GitHub
-- SQL
+I am an aspiring DevOps Engineer with training in:
 
-## Goals
+* AWS Cloud
+* Linux
+* Git
+* GitHub
+* SQL
 
-- Learn Docker
-- Learn CI/CD
-- Learn Terraform
-- Become a DevOps Engineer
+## Current Learning
+
+* Docker
+* Terraform
+* CI/CD
+* Kubernetes
+
+## Projects
+
+### Git & GitHub Basics
+
+* Created local repository
+* Connected repository to GitHub
+* Performed commits and pushes
+
+### AWS Projects
+
+* EC2 Instance Deployment
+* S3 Storage Configuration
+* IAM User Management
+
+### Linux Projects
+
+* User and Group Management
+* File Permissions
+* Basic Shell Commands
+
+## Career Goal
+To secure a Junior DevOps Engineer or Cloud Support role and continue developing cloud automation skills.
+
+To secure a Junior DevOps Engineer or Cloud Support role and continue developing cloud automation skills.
